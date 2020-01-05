@@ -16,7 +16,7 @@ import { Convert } from 'pvtsutils';
 import * as asn1js from 'asn1js';
 
 import * as dateFormatter from '../../utils/date_formatter';
-import downloadFromBuffer from  '../downloadFromBuffer';
+import downloadFromBuffer from  '../download_from_buffer';
 import OIDS from  '../../constants/oids';
 // import LOGS from '../../constants/logs';
 import SANs from '../../constants/san_types';

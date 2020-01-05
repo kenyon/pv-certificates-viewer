@@ -3,7 +3,7 @@
  *
  * @example
  * ```js
- *    import { downloadFromBuffer } from 'ui-utils';
+ *    import { downloadFromBuffer } from './download_from_buffer';
  *
  *    downloadFromBuffer(arrayBufferValue, 'applciation/pdf', 'myFile', 'pdf', 100);
  * ```
